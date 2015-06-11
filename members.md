@@ -214,6 +214,7 @@ Format:
 | Naomi Colvin | [auerfeld] (https://github.com/auerfeld) | Some Python and a little less C. Want to learn more through collaboration. |
 | Narek Babajanyan | [narekb](https://github.com/narekb) | Basic Python, interested in joint projects and practice. |
 | Nate Aune | [natea] (https://github.com/natea) | Intermediate Python and Django. Want to learn more Javascript such as Angular, Backbone. |
+| Nick Poczynek | [npoczynek](https://github.com/npoczynek) | Python, Java, C/C++ |
 | Nikolai A | [choppinrox] (https://github.com/choppinrox) | Computer Science student, I have experience in C++/C# python/django and have developed in Visual Studios and Unity3d |
 | Noriaki Oji | [noriakioji] (https://github.com/noriakioji) | I'm a Computer Science student with some basic knowledge of C++, Java, JavaScript, PHP, and Python. |
 | Norman King | [generalram] (https://github.com/generalram) ||
